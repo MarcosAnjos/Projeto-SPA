@@ -1,0 +1,14 @@
+{
+  "name": "projeto-spa-universe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
